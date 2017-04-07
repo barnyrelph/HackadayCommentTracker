@@ -1,0 +1,5 @@
+.newComment {
+	border: 1px solid #777;
+	background: #444;
+	transition: all 0.8s ease;
+}

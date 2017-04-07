@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
 
-    "name": "Comment Tracker example",
-    "description": "This extension shows a Google Image search result for the current page",
+    "name": "Hackaday Comment Tracker",
+    "description": "Highlight any new comments in an article since last visit",
     "version": "1.0",
 
     "content_scripts": [{
@@ -14,5 +14,5 @@
 
     "permissions": [
         "storage"
-    ],
+    ]
 }
